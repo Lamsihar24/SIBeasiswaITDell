@@ -1,0 +1,1158 @@
+.logo{
+    position: absolute;
+    width: 163px;
+    height: 28px;
+    left: 120px;
+    top: 22px;
+
+    font-family: font/Inter;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 23px;
+    line-height: 28px;
+}
+.nav1{
+    width: 100%;
+    height: 72px;
+    left: 0px;
+    top: 0px;
+
+    background: #F9FAFC;
+}
+.menu-1{
+    position: absolute;
+    width: 40px;
+    height: 22px;
+    left: 1041px;
+    top: 25px;
+
+    font-family: font/Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 22px;
+
+}
+.menu-2{
+    position: absolute;
+    width: 55px;
+    height: 22px;
+    left: 1117px;
+    top: 25px;
+
+    font-family: font/Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 22px;
+}
+.menu-3{
+    position: absolute;
+    width: 45px;
+    height: 22px;
+    left: 1208px;
+    top: 25px;
+
+    font-family: font/Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 22px;
+}
+.menu-4{
+    position: absolute;
+    width: 31px;
+    height: 22px;
+    left: 1289px;
+    top: 25px;
+
+    font-family: font/Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 22px;
+}
+.judul{
+ 
+    width: 530px;
+    height: 116px;
+    left: 120px;
+    top: 189px;
+
+    font-family: font/Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 58px;
+}
+.sub-judul{
+    position: absolute;
+    width: 492px;
+    height: 44px;
+    left: 120px;
+    top: 321px;
+
+    font-family: font/Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+}
+.gambar-1{
+    position: absolute;
+    width: 628px;
+    height: 378px;
+    left: 692px;
+    top: 174px;
+
+
+
+}
+/* .bg-1{
+    width: 623px;
+    height: 452px;
+    left: 817px;
+    top: 137px;
+
+    background: #002c53;
+
+
+} */
+.konsultasi-button{
+    position: absolute;
+    width: 287px;
+    height: 51px;
+    left: 120px;
+    top: 407px;
+    border-color: transparent;
+    background: #25D366;
+    border-radius: 6px;
+    
+}
+.tulisan-konsultasi{
+    width: 156px;
+    height: 19px;
+    left: 197px;
+    top: 423px;
+
+    font-family: font/Inter;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 19px;
+
+    color: #ffffff;
+}
+.buatjanji-button{
+    position: absolute;
+    width: 287px;
+    height: 51px;
+    left: 120px;
+    top: 466px;
+
+    background: #FFFFFF;
+
+    border: 0.6px solid #525759;
+    box-sizing: border-box;
+    border-radius: 6px;
+}
+.tulisan-buatjanji{
+    width: 187px;
+    height: 19px;
+    left: 170px;
+    top: 482px;
+
+    font-family: font/Inter;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+
+    color: #525759;
+}
+.ractangle-1{
+    position: absolute;
+    width: 194px;
+    height: 276px;
+    left: 187px;
+    top: 654px;
+
+    background: #F6F7F9;
+    border-radius: 8px;
+}
+.ractangle-2{
+    position: absolute;
+    width: 194px;
+    height: 276px;
+    left: 405px;
+    top: 654px;
+
+    background: #F6F7F9;
+    border-radius: 8px;
+
+}
+.ractangle-3{
+    position: absolute;
+    width: 194px;
+    height: 276px;
+    left: 623px;
+    top: 654px;
+
+    background: #F6F7F9;
+    border-radius: 8px;
+
+}
+.ractangle-4{
+    position: absolute;
+    width: 194px;
+    height: 276px;
+    left: 841px;
+    top: 654px;
+
+    background: #F6F7F9;
+    border-radius: 8px;
+
+}
+.ractangle-5{
+    position: absolute;
+    width: 194px;
+    height: 276px;
+    left: 1059px;
+    top: 654px;
+
+    background:  #F6F7F9;
+    border-radius: 8px;
+
+}
+.service-ac{
+    position: absolute;
+    left: 37.2%;
+    right: 78.56%;
+    top: 22.25%;
+    bottom: 76.76%;
+
+}
+
+.serviceAC{
+    width: 82px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 125px;
+
+    font-family: font/Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    text-align: center;
+
+    color: #525759;
+
+}
+.sub-serviceAC{
+    width: 144px;
+    margin-left: auto;
+    margin-right: auto;
+
+    font-family: font/Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    text-align: center;
+
+    color: #565E6D;
+}
+
+.service-MesinCuci{
+    position: absolute;
+    left: 37.2%;
+    right: 78.56%;
+    top: 22.25%;
+    bottom: 76.76%;
+
+}
+
+.serviceMesinCuci{
+    width: 120px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 125px;
+
+    font-family: font/Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    text-align: center;
+
+    color: #525759;
+
+
+}
+.sub-serviceMesinCuci{
+    width: 144px;
+    margin-left: auto;
+    margin-right: auto;
+
+    font-family: font/Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    text-align: center;
+
+    color: #565E6D;
+
+}
+
+.service-Elektronik{
+    position: absolute;
+    left: 37.2%;
+    right: 78.56%;
+    top: 22.25%;
+    bottom: 76.76%;
+
+}
+
+.serviceElektronik{
+    width: 109px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 125px;
+
+    font-family: font/Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    text-align: center;
+
+
+    color: #525759;
+
+
+}
+.sub-serviceElektronik{
+    width: 144px;
+    margin-left: auto;
+    margin-right: auto;
+
+    font-family: font/Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    text-align: center;
+
+    color: #565E6D;
+
+}
+
+.service-Pompa{
+    position: absolute;
+    left: 37.2%;
+    right: 78.56%;
+    top: 22.25%;
+    bottom: 76.76%;
+
+}
+
+.servicePompa{
+    width: 82px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 125px;
+
+    font-family: font/Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    text-align: center;
+
+    color: #525759;
+
+
+}
+.sub-servicePompa{
+    width: 144px;
+    margin-left: auto;
+    margin-right: auto;
+
+    font-family: font/Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    text-align: center;
+
+    color: #565E6D;
+
+}
+
+.service-SedotWC{
+    position: absolute;
+    left: 37.2%;
+    right: 78.56%;
+    top: 22.25%;
+    bottom: 76.76%;
+
+}
+
+.serviceSedotWC{
+    width: 64px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 125px;
+
+    font-family: font/Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    text-align: center;
+
+    color: #525759;
+
+
+}
+.sub-serviceSedotWC{
+    width: 144px;
+    margin-left: auto;
+    margin-right: auto;
+
+    font-family: font/Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    text-align: center;
+
+    color: #565E6D;
+
+}
+.overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    transition: .5s ease;
+    background: rgba(218, 255, 204, 0.95);
+  }
+  .container:hover .overlay {
+    opacity: 95%;
+  }
+  
+  .text {
+    color: #4AC200;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+
+    width: 82px;
+ 
+
+    font-family: font/Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    text-align: center;
+  }
+
+  .overlay2 {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    transition: .5s ease;
+    background: rgba(204, 242, 255, 0.95);
+  }
+  .container:hover .overlay2 {
+    opacity: 95%;
+  }
+  
+  .text2 {
+    color: #0287B4;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+
+    width: 120px;
+
+    font-family: font/Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    text-align: center;
+  }
+
+  .overlay3 {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    transition: .5s ease;
+    background: rgba(228, 210, 249, 0.95);
+  }
+  .container:hover .overlay3 {
+    opacity: 95%;
+  }
+  
+  .text3 {
+    color: #5E16B6;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+
+    width: 109px;
+
+    font-family: font/Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    text-align: center;
+  }
+
+  .overlay4 {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    transition: .5s ease;
+    background: rgba(252, 210, 234, 0.95);
+  }
+  .container:hover .overlay4 {
+    opacity: 95%;
+  }
+  
+  .text4 {
+    color: #C30C76;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+
+    width: 82px;
+
+    font-family: font/Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    text-align: center;
+  }
+
+  .overlay5 {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    transition: .5s ease;
+    background: rgba(250, 244, 210, 0.95);
+  }
+  .container:hover .overlay5 {
+    opacity: 95%;
+  }
+  
+  .text5 {
+    color: #D5AA12;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+
+    width: 64px;
+
+    font-family: font/Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    text-align: center;
+  }
+
+  .nav2{
+    position: absolute;
+    width: 100%;
+    height: 73px;
+    left: 0px;
+    top: 1008px;
+
+    background: #F9FAFC;
+}
+
+.logo1{
+    margin-left: 120px;
+    margin-top: 18px;
+}
+.logo2{
+    margin-left: 53px;
+    margin-top: 12px;
+}
+.logo3{
+    margin-left: 53px;
+    margin-top: 18px;
+}
+.logo4{
+    margin-left: 53px;
+    margin-top: 18px;
+}
+.logo5{
+    margin-left: 53px;
+    margin-top: 22px;
+}
+.logo6{
+    margin-left: 53px;
+    margin-top: 18px;
+}
+.logo7{
+    margin-left: 53px;
+    margin-top: 18px;
+}
+.logo8{
+    margin-left: 53px;
+    margin-top: 18px;
+}
+.chat{
+    position: absolute;
+    width: 264px;
+    height: 532px;
+    left: 322px;
+    top: 1183px;
+
+}
+.caraKerja{
+    position: absolute;
+    width: 469px;
+    height: 88px;
+    left: 648px;
+    top: 1261px;
+
+    font-family: font/Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 44px;
+
+    color: #051225;
+}
+.satu{
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    left: 647px;
+    top: 1394px;
+
+    background: #F2F9FF;
+    border-radius: 4px;
+}
+.one{
+    position: absolute;
+    width: 7.19px;
+    height: 22px;
+    left: 658.78px;
+    top: 1399px;
+
+    font-family: font/Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 22px;
+
+    color: #0084FD;
+
+}
+.sada{
+    position: absolute;
+    width: 415.09px;
+    height: 44px;
+    left: 701.91px;
+    top: 1394px;
+
+    font-family: font/Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+
+    color: #565E6D;
+}
+.dua{
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    left: 647px;
+    top: 1463px;
+
+    background: #F2F9FF;
+    border-radius: 4px;
+}
+.two{
+    position: absolute;
+    width: 9.88px;
+    height: 22px;
+    left: 657.88px;
+    top: 1468px;
+
+    font-family: font/Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 22px;
+    /* identical to box height, or 137% */
+
+    text-align: center;
+
+    color: #0084FD;
+}
+.duaa{
+    position: absolute;
+    width: 415.09px;
+    height: 22px;
+    left: 701.91px;
+    top: 1468px;
+
+    font-family: font/Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    /* identical to box height, or 137% */
+
+
+    color: #565E6D;
+}
+.tiga{
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    left: 647px;
+    top: 1527px;
+
+    background: #F2F9FF;
+    border-radius: 4px;
+}
+.three{
+    position: absolute;
+    width: 9.88px;
+    height: 22px;
+    left: 657.88px;
+    top: 1532px;
+
+    font-family: font/Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 22px;
+    /* identical to box height, or 137% */
+
+    text-align: center;
+
+    color: #0084FD;
+
+}
+.tolu{
+    position: absolute;
+    width: 415.09px;
+    height: 44px;
+    left: 701.91px;
+    top: 1520px;
+
+    font-family: font/Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    /* or 137% */
+
+
+    color: #565E6D;
+
+}
+.empat{
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    left: 647px;
+    top: 1601px;
+
+    background: #F2F9FF;
+    border-radius: 4px;
+}
+.four{
+    position: absolute;
+    width: 9.88px;
+    height: 22px;
+    left: 657.88px;
+    top: 1606px;
+
+    font-family: font/Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 22px;
+    /* identical to box height, or 137% */
+
+    text-align: center;
+
+    color: #0084FD;
+
+}
+.opat{
+    position: absolute;
+    width: 415.09px;
+    height: 44px;
+    left: 701.91px;
+    top: 1594px;
+
+    font-family: font/Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+
+    color: #565E6D;
+
+}
+
+.galery{
+    position: absolute;
+    width: 115px;
+    height: 44px;
+    left: 663px;
+    top: 1827px;
+
+    font-family: font/Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 44px;
+
+    text-align: center;
+
+    color: #051225;
+
+}
+.penjelasan-galery{
+    position: absolute;
+    width: 704px;
+    height: 44px;
+    left: 369px;
+    top: 1887px;
+
+    font-family: font/Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+
+    text-align: center;
+
+    color: #565E6D;
+}
+.gallery1{
+    position: absolute;
+    width: 574px;
+    height: 351px;
+    left: 222px;
+    top: 1993px;
+}
+.gallery2{
+    position: absolute;
+    width: 406px;
+    height: 167px;
+    left: 812px;
+    top: 1993px;
+}
+.gallery3{
+    position: absolute;
+    width: 406px;
+    height: 168px;
+    left: 812px;
+    top: 2176px;
+}
+.gallery4{
+    position: absolute;
+    width: 406px;
+    height: 167px;
+    left: 222px;
+    top: 2360px;
+ 
+}
+.gallery5{
+    position: absolute;
+    width: 406px;
+    height: 168px;
+    left: 222px;
+    top: 2543px;
+
+}
+.gallery6{
+    position: absolute;
+    width: 574px;
+    height: 351px;
+    left: 644px;
+    top: 2360px;
+
+
+}
+.nav3{
+    position: absolute;
+    width: 100%;
+    height: 368px;
+    left: 0px;
+    top: 2823px;
+
+    background: #F9FAFC;
+}
+.logo-footer{
+    position: absolute;
+    width: 163px;
+    height: 28px;
+    left: 222px;
+    top: 2886px;
+
+    font-family: font/Inter;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 23px;
+    line-height: 28px;
+    /* identical to box height */
+    display: flex;
+    align-items: flex-end;
+
+    /* Red */
+    color: #EB5757;
+
+}
+.alamat-footer{
+    position: absolute;
+    width: 289px;
+    height: 44px;
+    left: 222px;
+    top: 2928px;
+
+    font-family: font/Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 22px;
+    /* or 183% */
+
+
+    color: #565E6D;
+}
+.whatsapp-footer{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 222px;
+    top: 2992px;
+}
+.gmail-footer{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 258px;
+    top: 2992px;
+}
+.instagram-footer{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 294px;
+    top: 2992px;
+}
+.facebook-footer{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 330px;
+    top: 2992px;
+}
+.halaman-footer{
+    position: absolute;
+    width: 69px;
+    height: 19px;
+    left: 730px;
+    top: 2895px;
+
+    font-family: font/Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 19px;
+
+    /* Color/Neutral/Orca-dark */
+
+    color: #292B2C;
+}
+.home-footer{
+    position: absolute;
+    width: 35px;
+    height: 22px;
+    left: 730px;
+    top: 2928px;
+    
+    font-family: font/Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 22px;
+    
+    color: #525759;
+}
+.service-footer{
+    position: absolute;
+    width: 47px;
+    height: 22px;
+    left: 730px;
+    top: 2954px;
+    
+    font-family: font/Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 22px;
+    
+    color: #525759;
+}
+.galery-footer{
+    position: absolute;
+    width: 39px;
+    height: 22px;
+    left: 730px;
+    top: 2980px;
+
+    font-family: font/Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 22px;
+
+    color: #525759;
+
+}
+.blog-footer{
+    position: absolute;
+    width: 26px;
+    height: 22px;
+    left: 730px;
+    top: 3006px;
+
+    font-family: font/Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 22px;
+
+    color: #525759;
+}
+.kontak-footer{
+    position: absolute;
+    width: 98px;
+    height: 19px;
+    left: 933px;
+    top: 2895px;
+    
+    font-family: font/Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 19px;
+    
+    color: #292B2C;
+}
+.lokasi-footer{
+    position: absolute;
+    width: 321px;
+    height: 66px;
+    left: 933px;
+    top: 2928px;
+    
+    font-family: font/Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 22px;
+    /* or 183% */
+    
+    
+    color: #565E6D;
+}
+.telp-footer{
+    position: absolute;
+    width: 144px;
+    height: 22px;
+    left: 933px;
+    top: 3018px;
+    
+    font-family: font/Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 22px;
+    /* identical to box height, or 183% */
+    
+    
+    color: #565E6D;
+}
+.copyright-footer{
+    position: absolute;
+    width: 254px;
+    height: 15px;
+    left: 593px;
+    top: 3152px;
+    
+    font-family: font/Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 125%;
+    
+    text-align: center;
+    color: #525759;
+}
